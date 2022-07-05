@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    '',
+    '基于onedrive国际版，加载比较慢，请耐心等待',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -48,14 +48,6 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
-      name: 'GitHub',
-      link: 'https://github.com/nanguoyouxue/onedrive-vercel-index',
-    },
-    {
-      name: 'bilibili',
-      link: 'https://space.bilibili.com/381227978',
-    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
